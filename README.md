@@ -56,7 +56,3 @@ Below are some example screenshots showing the different fragments:
 ## Requirements
 - Android Studio
 - WeatherAPI.com API key
-
----
-
-You can now add screenshots and any other content you mentioned directly into the README file. If you'd like any adjustments or need further assistance, feel free to let me know!
