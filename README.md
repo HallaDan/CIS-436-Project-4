@@ -38,13 +38,13 @@ val weatherURL = "https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=
 ```
 
 ## Screenshots
-Below are some example screenshots showing the weather and GIFs based on temperature ranges (you can add your own screenshots):
+Below are some example screenshots showing the different fragments:
 
-- **50° – 32°F**
-- **66° - 79°F**
-- **80°F+**
-- **< 32°F**
-- **51° - 65°F**
+![Picture7](https://github.com/user-attachments/assets/6b09b596-d66f-44b1-aa93-00896bad33f5)
+
+![Picture8](https://github.com/user-attachments/assets/37f85f2d-28c4-4fc4-b1e2-91990a086fa0)
+
+ 
 
 ## How to Run
 1. Clone this repository.
