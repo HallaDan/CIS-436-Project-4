@@ -37,7 +37,7 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     // function to fetch current weather using volley
     fun getWeatherInfo(zipcode : String) {
         val weatherURL = "https://api.weatherapi.com/v1/current.json?" +
-                "key=6543f08bdb364d56b31211538242204&q=$zipcode&aqi=no"
+                "key=YOUR_API_KEY&q=$zipcode&aqi=no"
 
         // volley request set up
         val queue = Volley.newRequestQueue(application)
